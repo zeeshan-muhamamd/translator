@@ -1,0 +1,22 @@
+{
+  "name": "translator",
+  "version": "0.1.0",
+  "description": "Translator for the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeeshan-muhammad/translator.git"
+  },
+  "author": "F5 Solutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeeshan-muhammad/translator/issues"
+  },
+  "homepage": "https://github.com/zeeshan-muhammad/translator#readme",
+  "dependencies": {
+    "translate-json-object": "^2.3.7"
+  }
+}
